@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: springappcontainer
-        image: mylandmarktech/myapp 
+        image: tnorbert/myapp 
         ports:
         - containerPort: 8080
         env:
